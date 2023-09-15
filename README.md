@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PrabhakarPULIGADDA
 - 👀 I’m interested in learning and creating the things which are not happened already~~~
-- 🌱 I’m a 3rd year student persuing CSE from DMSSVHCE mtm
+- 🌱 I’m a 3rd year student pursueing CSE from DMSSVHCE mtm
 - 💞️ I’m looking to get a job into high paid companies like wipro,tcs,amazon""
 - 📫 How to reach me u can contact m,e through my mail***
 
