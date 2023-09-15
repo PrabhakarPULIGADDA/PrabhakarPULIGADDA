@@ -1,8 +1,9 @@
+************DO WHAT YOU LOVE**************
 - 👋 Hi, I’m @PrabhakarPULIGADDA
-- 👀 I’m interested in learning and creating the things which are not happened already~~~
+- i was born and bougtup from mtm
 - 🌱 I’m a 3rd year student pursueing CSE from DMSSVHCE mtm
-- 💞️ I’m looking to get a job into high paid companies like wipro,tcs,amazon""
-- 📫 How to reach me u can contact m,e through my mail***
+- 💞️ I’m a front end developer im perfect fullstack webdevelopment
+- 📫 my short term goal is to get a high paid job according to myskills,and long term goal is to achieve a best position in that so*** called company
 
 <!---
 PrabhakarPULIGADDA/PrabhakarPULIGADDA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
